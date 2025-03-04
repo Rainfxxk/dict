@@ -1,0 +1,4 @@
+*.db
+dict-client.py
+dict-server.py
+__pycache__
